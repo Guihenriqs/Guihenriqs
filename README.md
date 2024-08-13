@@ -1,6 +1,6 @@
 # Hello World
 
-Olá, me chamo **Guilherme** e sou um estudante de tecnologia. O objetivo deste repositório é apresentar meus projetos e estudos. :)
+Olá, me chamo Guilherme e sou um estudante de tecnologia. O objetivo deste repositório é apresentar meus projetos e estudos. :)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guihenriq.s)
 
